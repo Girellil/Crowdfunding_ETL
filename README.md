@@ -27,6 +27,7 @@ Solution for the proposal of the project 2 (Option 1 - Default) presented.
     - /crowdfunding_db_BU.sql = Backup file of the output Database.
     - /crowdfunding_db_schema.sql = Schema output from QuickDB, used to query the creation of Database Tables, formats and relatioships in .TXT format.
     - /QuickDBD-export.png = Output of schema image from QuickDB.
+        ![campaign](/Crowfunding_DB/QuickDBD-export.png)
     - /QuickDBD-export.txt = Prompt input in QuickDB to obtain schema image and sql-query from QuickDB.
     - /Select-[Campaign, Cat, Subcat, Contacts].png = Screenshots of "SELECT * from {Tablename}" queries to test result of DB load process.
 
